@@ -1,0 +1,16 @@
+{
+  "name": "automate-whatsapp-messages",
+  "version": "1.0.0",
+  "description": "Automate whatsapp messages using NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Meet Parikh",
+  "license": "ISC",
+  "dependencies": {
+    "node-cron": "^3.0.2",
+    "selenium-webdriver": "^4.11.1"
+  }
+}
